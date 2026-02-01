@@ -1,6 +1,6 @@
-# React Code
+# Insta Login
 
-A modern React application built with Vite, featuring user authentication and responsive design.
+A modern React application built with Vite, featuring Instagram-style user authentication and responsive design.
 
 ## Features
 
@@ -24,8 +24,8 @@ A modern React application built with Vite, featuring user authentication and re
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
-   cd react_code
+   git clone https://github.com/Abhisek503/Insta-Login.git
+   cd Insta-Login
    ```
 
 2. Install dependencies:
